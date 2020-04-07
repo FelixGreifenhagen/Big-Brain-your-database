@@ -5,5 +5,62 @@ von Felix Greifenhagen, 12g
 
 ## Vorwort
 
+
+
+
+
+
 ## Inhaltsverzeichnis
+
 ### Programme
+-Sublime Text
+-Xampp
+-phpMyAdmin
+
+### Datenbankmanagementsystem
+
+### Datenbanken
+-accounts
+-bilder
+
+### Registrierung
+-Überprüfung
+-Einfügen
+
+### Login
+-Überrüfung
+-Weiterleitung
+
+### Account
+-Tabelle
+-Log out
+
+### Fazit
+
+# Programme
+
+## Sublime Text 
+
+## Xampp
+
+## phpMyAdmin
+
+# 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
