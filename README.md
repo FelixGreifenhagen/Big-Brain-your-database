@@ -13,27 +13,27 @@ von Felix Greifenhagen, 12g
 ## Inhaltsverzeichnis
 
 ### Programme
--Sublime Text
--Xampp
--phpMyAdmin
+-Sublime Text<br>
+-Xampp<br>
+-phpMyAdmin<br>
 
 ### Datenbankmanagementsystem
 
 ### Datenbanken
--accounts
--bilder
+-accounts<br>
+-bilder<br>
 
 ### Registrierung
--Überprüfung
--Einfügen
+-Überprüfung<br>
+-Einfügen<br>
 
 ### Login
--Überrüfung
--Weiterleitung
+-Überrüfung<br>
+-Weiterleitung<br>
 
 ### Account
--Tabelle
--Log out
+-Tabelle<br>
+-Log out<br>
 
 ### Fazit
 
