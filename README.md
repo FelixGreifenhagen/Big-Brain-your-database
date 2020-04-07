@@ -45,7 +45,31 @@ von Felix Greifenhagen, 12g
 
 ## phpMyAdmin
 
-# 
+# Datenbanken
+
+## accounts
+
+## bilder
+
+# Registrierung
+
+## Überprüfung 
+
+## Einfügen
+
+# Login
+
+## Überprüfung
+
+## Weiterleitung
+
+# Accountseite
+
+## Tabelle
+
+## Log out
+
+# Fazit
 
 
 
