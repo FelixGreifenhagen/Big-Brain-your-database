@@ -35,6 +35,8 @@ Big Brain ist eine Website, auf der man seinen eigenen Account anlegt um seine B
 
 ### Fazit
 
+### Quellen
+
 # Programme
 
 ## Sublime Text 
@@ -44,6 +46,8 @@ Sublime Text ist ein Text-Editor zum Progammieren, welcher viele Befehle von Htm
 
 ## Xampp
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/bc7d01f991b084ad90e3c3975caabb54-full.png"></p>
+
+Xampp ist ein Programm mit dem man verschiedener lokale Server starten, um mit diesen zu arbeiten. Hier wurde das Apache Modul benutzt sowie das Mysql Modul, weil man hier mit einer Datenbank arbeitet. Durch das Apache modul ist es möglich Php Dokumente mit dem Browser öffnen zu können. Das wichtig um sehen zu können ob die Änderungen des Dokuments funktionieren. Das Mysql Modul hingegen stellt die Verbindung zur Datenbank her, welche mit Mysql programmiert wird.
 
 ## phpMyAdmin
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/b783390e80bee8e20ec6d436c05f73d7-full.png"></p>
