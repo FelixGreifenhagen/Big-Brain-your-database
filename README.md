@@ -37,6 +37,8 @@ Big Brain ist eine Website, auf der man seinen eigenen Account anlegt um seine B
 ## Sublime Text 
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/a4ba9277e9f2c70202a92c638de20d98-full.png"></p>
 
+Sublime Text ist ein Text-Editor zum Progammieren, welcher viele Befehle von Html und Php in seiner Datenbank gespeichert hat. Deswegen kann man für die Grundbefehle Auto-Fill benutzen. Sublime habe ich für alle Dateien benutzt da es erst einmal einen guten Überblick schafft, darunter die Html Dateien, die Css Stylesheets und die php Dokumente.
+
 ## Xampp
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/bc7d01f991b084ad90e3c3975caabb54-full.png"></p>
 
