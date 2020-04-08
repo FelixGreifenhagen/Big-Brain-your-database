@@ -52,7 +52,7 @@ Big Brain ist eine Website, auf der man seinen eigenen Account anlegt um seine B
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/217e2de1fb11735c9e20748ed49338c0-full.png"></p>
 
 # Registrierung
-<p><img src=""></p>
+<p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/b1770d7e0f54140532ed66f838c2ff04-full.png"></p>
 
 ## Überprüfung 
 
