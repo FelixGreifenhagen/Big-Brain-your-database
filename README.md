@@ -52,6 +52,8 @@ Xampp ist ein Programm mit dem man verschiedener lokale Server starten, um mit d
 ## phpMyAdmin
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/b783390e80bee8e20ec6d436c05f73d7-full.png"></p>
 
+PhpMyAdmin ist Programm, um Datenbanken zu erstellen, zu bearbeiten und zu erweitern. Bei der Datenbankerstellung ist es sehr vorteilhaft, weil es viele genauere definitionen der Tabellenspalten anzeigt und somit dem Benutzer hilft, da er die Basics nur auszuwählen hat. Im Projekt wurde es benutzt um in der Datenbank Test die Tabellen "accounts" und "bilder" zu erstellen.
+
 # Datenbanken
 
 ## accounts
