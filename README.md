@@ -41,7 +41,7 @@ Big Brain ist eine Website, auf der man seinen eigenen Account anlegt um seine B
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/bc7d01f991b084ad90e3c3975caabb54-full.png"></p>
 
 ## phpMyAdmin
-<p><img src=""></p>
+<p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/b783390e80bee8e20ec6d436c05f73d7-full.png"></p>
 
 # Datenbanken
 
