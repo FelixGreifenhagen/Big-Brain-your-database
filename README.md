@@ -3,17 +3,14 @@ von Felix Greifenhagen, 12g
 
 <p align="center"><img src="http://t3n.de/news/wp-content/uploads/2010/07/symbolbild-datenbank.jpg"> </p>
 
-## Vorwort
-
-
-
-
-
+Big Brain ist eine Website, auf der man seinen eigenen Account anlegt um seine Bilder dort sicher abspeichern zu können.
 
 ## Inhaltsverzeichnis
 
 ### Programme
 -Sublime Text<br>
+<p><img src="Screenshot(27).png"></p>
+
 -Xampp<br>
 -phpMyAdmin<br>
 
