@@ -27,7 +27,6 @@ Big Brain ist eine Website, auf der man seinen eigenen Account anlegt um seine B
 -Weiterleitung<br>
 
 ### Account
--Tabelle<br>
 -Log out<br>
 
 ### Kontaktformular
@@ -82,13 +81,11 @@ Die Id ist das wichtigste in dieser Tabelle, weil sie der Primärschlüssel ist 
 
 # Accountseite
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/665ca49ea6a8ad921121bc309ca249c6-full.png"></p>
-
-## Tabelle
-
-## Log out
+## Logout
 
 # Kontaktformular
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/7b348ca52ada16446a577518658485f6-full.png"></p>
+## Versenden
 
 # Fazit
 
