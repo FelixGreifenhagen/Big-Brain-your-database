@@ -63,9 +63,9 @@ Die  "accounts" ist für die Speicherung der Anmeldedaten zuständig. Sie besteh
 Die Id ist das wichtigste in dieser Tabelle, weil sie der Primärschlüssel ist weswegen sie das Extra auto_increment bekommt wodurch man diesen Wert beim Einfügen in die Datenbank nicht einfügen muss, da er sich automatisch um 1 erhöht. Damit verhindert man, dass mehrere Benutzer die selbe Id haben, das ist wichtig weil der Primärschlüssel zur Unterscheidung der Benutzer genutzt wird. Die drei Spalten darunter sind relativ, es nämlich varchar, das bedeutet sie enthalten alle möglichen Zeichen, sind durch die 225 auf 225Zeichen begrenzt und sind flexibel, also nicht bindend. Die untersten zwei Spalten sind als Zeitpunkt definiert, welcher den Zeitpunkt des Einfügens festhält, bei updated_at wird der später den Zeitpunkt der Änderung ersetzt. 
 
 ## bilder
-<p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/c281f7d8e850a9607dc95bc6f60b4ae9-full.png"></p>
+<p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/44b1cc9ed69da8a10b0c1b1fa76087a8-full.png"></p>
 
-Die Tabelle "bilder" ist für die spätere Speicherung der Bilder zuständig und besteht aus vier Spalten, nämlich Id, name Bild und created_at. Die Id hat in dieser Tabelle wieder die selbe Funktion und wird daher auch genauso definiert, gleiches gilt für created_at, welches als der Zeitpunkt des Einfügens in die Datenbank definiert ist. Die Spalte name steht für den Namen des Bildes und wird durch ein varchar definiert und ist ebenfalls auf 225Zeichen begrenzt. Die übrige Spalte Bild ist für die Speicherung des Links zuständig, sie ha
+Die Tabelle "bilder" ist für die spätere Speicherung der Bilder zuständig und besteht aus vier Spalten, nämlich Id, name Bild und created_at. Die Id hat in dieser Tabelle wieder die selbe Funktion und wird daher auch genauso definiert, gleiches gilt für created_at, welches als der Zeitpunkt des Einfügens in die Datenbank definiert ist. Die Spalte name steht für den Namen des Bildes und wird durch ein varchar definiert und ist ebenfalls auf 225Zeichen begrenzt. Die übrige Spalte Bild ist für die Speicherung des Links zuständig, sie hat den Typ blob, der für Bild-, Audio- und Videodateien verwendet wird.
 
 # Registrierung
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/b1770d7e0f54140532ed66f838c2ff04-full.png"></p>
