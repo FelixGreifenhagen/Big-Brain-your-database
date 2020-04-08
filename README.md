@@ -14,7 +14,7 @@ Big Brain ist eine Website, auf der man seinen eigenen Account anlegt um seine B
 
 ### Datenbankmanagementsystem
 
-### Datenbanken
+### Datenbank
 -accounts<br>
 -bilder<br>
 
@@ -54,10 +54,14 @@ Xampp ist ein Programm mit dem man verschiedener lokale Server starten, um mit d
 
 PhpMyAdmin ist Programm, um Datenbanken zu erstellen, zu bearbeiten und zu erweitern. Bei der Datenbankerstellung ist es sehr vorteilhaft, weil es viele genauere definitionen der Tabellenspalten anzeigt und somit dem Benutzer hilft, da er die Basics nur auszuwählen hat. Im Projekt wurde es benutzt um in der Datenbank Test die Tabellen "accounts" und "bilder" zu erstellen.
 
-# Datenbanken
+# Datenbank
 
 ## accounts
+Die  "accounts" ist für die Speicherung der Anmeldedaten zuständig. Sie besteht aus sechs Spalten, Id, email, username, password, created_at und updated_at. Jeder Wert muss existieren, weil alle Spalten einen Null-Wert ablehnen.<br> 
+
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/921e77cd9e5a4a6fca3d7908f87ee086-full.png"></p>
+
+Die Id ist das wichtigste in dieser Tabelle, weil sie der Primärschlüssel ist weswegen sie das Extra auto_increment bekommt wodurch man diesen Wert beim Einfügen in die Datenbank nicht einfügen muss, da er sich automatisch um 1 erhöht. Damit verhindert man, dass mehrere Benutzer die selbe Id haben, das ist wichtig weil der Primärschlüssel zur Unterscheidung der Benutzer genutzt wird. Die drei Spalten darunter sind relativ, es nämlich varchar, das bedeutet sie enthalten alle möglichen Zeichen, sind durch die 225 auf 225Zeichen begrenzt und sind flexibel, also nicht bindend. Die untersten zwei Spalten sind als Zeitpunkt definiert, welcher den Zeitpunkt des Einfügens festhält, bei updated_at wird der später den Zeitpunkt der Änderung ersetzt. 
 
 ## bilder
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/217e2de1fb11735c9e20748ed49338c0-full.png"></p>
