@@ -71,8 +71,10 @@ Die Tabelle "bilder" ist für die spätere Speicherung der Bilder zuständig und
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/b1770d7e0f54140532ed66f838c2ff04-full.png"></p>
 
 ## Überprüfung 
+Die Überprüfung ist der erste Schritt der Registrierung, dabei werden die eingegebenen Daten mit den schon in der Datenbank vorliegenden Werten verglichen. Dabei muss darauf geachtet werden, das kein Benutzername und keine Email-Addresse schon vergeben ist das Fall wird der Benutzer auf der Website darüber informiert was schon vergeben ist. Das wird mit den Funktionen prepare, bindParam und execute umgesetzt. Mit prepare wird der Mysql-Befehl Select from im Php-Code eingebaut, mit bindParam werden die zu vergleichenden Werte des Benutzers definiert und mit execute wird der Mysql-Behfehl ausgeführt. Dann werden in einem if die beiden Passwörter miteinander verglichen und wenn beide identisch sind wird der nächste Schritt ausgeführt. 
 
 ## Einfügen
+Im zweiten Schritt wird mit prepare, bindParam und execute wieder ein Mysql-Befehl ausgeführt, diesmal ist es der Insert Into Befehl mit dem die Daten in die Datenbank eingefügt werden. Wichtig zu beachten ist, dass alle Werte eingegeben wurden, denn sonst wird die Datenbank nicht mit den Daten gefüllt. Dabei werden alle Werte erwähnt, welche in Datenbank als Spalten definiert sind und darunter werden alle Werte mit bindParam definiert. Hier sind das die Email der Benutzername und das Passwort, die anderen drei werden nicht benötigt, weil sie sich selber Werte zu ordnen, das sind Id, created_at und updated_at. 
 
 # Login
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/e0e5b0df4cbd4248985ceeb64ddf6c22-full.png"></p>
