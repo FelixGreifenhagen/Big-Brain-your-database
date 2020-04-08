@@ -9,8 +9,6 @@ Big Brain ist eine Website, auf der man seinen eigenen Account anlegt um seine B
 
 ### Programme
 -Sublime Text<br>
-<p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/a4ba9277e9f2c70202a92c638de20d98-full.png"></p>
-
 -Xampp<br>
 -phpMyAdmin<br>
 
@@ -37,31 +35,31 @@ Big Brain ist eine Website, auf der man seinen eigenen Account anlegt um seine B
 # Programme
 
 ## Sublime Text 
-
+<p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/a4ba9277e9f2c70202a92c638de20d98-full.png"></p>
 ## Xampp
-
+<p><img src=""></p>
 ## phpMyAdmin
-
+<p><img src=""></p>
 # Datenbanken
 
 ## accounts
-
+<p><img src=""></p>
 ## bilder
-
+<p><img src=""></p>
 # Registrierung
-
+<p><img src=""></p>
 ## Überprüfung 
 
 ## Einfügen
 
 # Login
-
+<p><img src=""></p>
 ## Überprüfung
 
 ## Weiterleitung
 
 # Accountseite
-
+<p><img src=""></p>
 ## Tabelle
 
 ## Log out
