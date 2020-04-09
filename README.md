@@ -82,8 +82,8 @@ Im zweiten Schritt wird mit prepare, bindParam und execute wieder ein Mysql-Befe
 ## Überprüfung
 
 
-
 ## Weiterleitung
+
 
 # Accountseite
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/665ca49ea6a8ad921121bc309ca249c6-full.png"></p>
@@ -99,6 +99,7 @@ Beim Versenden der Mail, ist es wichtig alle eingegebenen Werte im php zu defini
 Wichtig ist im html Dokument das "action" Attribut mit dem Namen des externen Php Dokuments zu versehen.
 
 # Fazit
+
 
 # Quellen(zum Verständnis)
 
