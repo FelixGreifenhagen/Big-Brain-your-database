@@ -1,0 +1,64 @@
+html{
+    color: white;	
+}
+header{
+	background-color: white;
+	margin-left: 20px;
+}
+h1{
+	color: black;
+	height: 41px;
+
+}
+body{
+   background-color: white;
+   margin-left: 0;
+   margin-right: 0;
+   font-size: 17px;
+}
+section{
+	background-color: green;
+	float: left;
+	width: 15%;
+	height: 394px
+}
+nav{
+	background-color: grey;
+
+}
+footer{
+	background-color: white;
+	clear: both;
+	margin-left: 0;
+	margin-right: 0;
+	color: black;
+	float: left;
+	width: 100%;
+}
+small{
+	float: right;
+	background-color: grey;
+	width: 100%;
+}
+a{
+	color: black;
+}
+
+.navigation {
+	float: right;
+	width: 40%;
+	margin-top: 67px;
+}
+.Name{
+	float: left;
+}
+.solve{
+    clear: left;
+    background-color: grey;
+}
+.middle{
+	width: 70%;
+}
+.sides{
+	background-color: grey;
+}
