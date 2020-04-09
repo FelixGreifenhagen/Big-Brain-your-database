@@ -78,6 +78,7 @@ Im zweiten Schritt wird mit prepare, bindParam und execute wieder ein Mysql-Befe
 
 # Login
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/e0e5b0df4cbd4248985ceeb64ddf6c22-full.png"></p>
+
 ## Überprüfung
 
 
@@ -86,13 +87,16 @@ Im zweiten Schritt wird mit prepare, bindParam und execute wieder ein Mysql-Befe
 
 # Accountseite
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/665ca49ea6a8ad921121bc309ca249c6-full.png"></p>
+
 ## Logout
 
 # Kontaktformular
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/7b348ca52ada16446a577518658485f6-full.png"></p>
+
 ## Versenden
 
-Beim Versenden der Mail, ist es wichtig alle eingegebenen Werte im php zu definieren und sie dann in einer Funktion namens mail zu einer Email zusammen zubauen, man benutzt dafür Variabeln. H
+Beim Versenden der Mail, ist es wichtig alle eingegebenen Werte im php zu definieren und sie dann in einer Funktion namens mail zu einer Email zusammen zubauen, man benutzt dafür Variabeln. Zuerst sind die Variabeln definiert worden von den auf der Website eingegebenen Daten, wie den Namen, die Email-Addresse, das Herkunftsland, das Thema und die Nachricht an sich. In der mail Funktion sind die vier Variabeln "$mailTo", "$subject", "$txt" und "$headers" eingetragen. "$mailTo" ist als die Email-Addresse des Seiteninhabers definiert, bei "$subject"  als das Thema, in "$txt" ist der Name sowie auch die Nachricht definiert und bei "$headers" ist die Email-Addresse des Benutzers definiert.
+Wichtig ist im html Dokument das "action" Attribut mit dem Namen des externen Php Dokuments zu versehen.
 
 # Fazit
 
