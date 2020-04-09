@@ -88,8 +88,8 @@ Im zweiten Schritt wird mit prepare, bindParam und execute wieder ein Mysql-Befe
 # Accountseite
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/665ca49ea6a8ad921121bc309ca249c6-full.png"></p>
 
-## Logout
-
+## Log out
+Der Log out ist dafür zuständig, die Benutzer aus dem Account auszuloggen und wieder auf die Login Seite zuleiten. Dass wird mit drei Funktionen realisiert, zuerst session_start mit welcher ein Prozess zum laufen gebracht wird. Daraufhin wird dieser durch session_destroy wieder beendet somit würde eine weiße Seite angezeigt werden, da wir das aber nicht wollen benutzen wir die Funktion header mit der der Benutzer auf die Login Seite weitergeleitet wird.
 
 # Kontaktformular
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/7b348ca52ada16446a577518658485f6-full.png"></p>
