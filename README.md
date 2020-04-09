@@ -83,7 +83,7 @@ Im zweiten Schritt wird mit prepare, bindParam und execute wieder ein Mysql-Befe
 Bei der Überprüfung, dem ersten Schritt des Login, wird mit den Funktionen der anderen Überprüfung gearbeitet, prepare, bindParam und execute. Nur dieses Mal setzten wir den row count auf eins, weil wir herausfinden möchten ob der Account existiert und nicht sicherstellen wollen das er nicht existiert. Damit wird der Benutzername überprüft, wenn der passt wird in der selben Zeile nach dem eingegebenen Passwort gesucht, das wird mit der Funktion fetch umgesetzt, die unseren Mysql-Befehl in einen Zugriff umsetzt. Mit diesem wird das Passwort mit dem in der Datenbank verglichen, dazu nutzt man die Funktion password_verify.
 
 ## Weiterleitung
-
+Die Weiterleitung 
 
 # Accountseite
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/665ca49ea6a8ad921121bc309ca249c6-full.png"></p>
