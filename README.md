@@ -99,7 +99,8 @@ Beim Versenden der Mail, ist es wichtig alle eingegebenen Werte im php zu defini
 Wichtig ist im html Dokument das "action" Attribut mit dem Namen des externen Php Dokuments zu versehen.
 
 # Fazit
-
+Während der Bearbeitungszeit hat sich meine Website um einiges weiterentwickelt, von ein paar Seiten Html und Css Code zu einer lebendigen Seite die mit einer Datenbank interagiert, das realisiert durch Php und  Mysql. Jedoch ein Ziel dieses Projektes konnte ich in der Zeit noch nicht umsetzen und das liegt in der Accountseite, dort habe ich zwei Tools als Link vorbereitet, welche ich jedoch aufgrund des kleinen Zeitmangels nicht mehr Programmieren konnte. Trotzdessen bin ich froh  darüber dieses mal die Qualität meines Projektes, vor allem in der Dokumention um einiges verbessert zu haben. 
+ 
 
 # Quellen(zum Verständnis)
 
