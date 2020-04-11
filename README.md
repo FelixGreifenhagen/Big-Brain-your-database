@@ -41,17 +41,17 @@ Big Brain ist eine Website, auf der man seinen eigenen Account anlegt, um seine 
 ## Sublime Text 
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/a4ba9277e9f2c70202a92c638de20d98-full.png"></p>
 
-Sublime Text ist ein Text-Editor zum Progammieren, welcher viele Befehle von Html und Php in seiner Datenbank gespeichert hat. Weswegen man ihn für die Grundbefehle benutzen kann. Sublime habe ich für alle Dateien benutzt, darunter die Html Dateien, die Css Stylesheets und die php Dokumente, da es erst einmal einen guten Überblick schafft.
+Sublime Text ist ein Text-Editor zum Progammieren, welcher viele Befehle von Html und Php in seiner Datenbank gespeichert hat, weswegen man ihn für die Grundbefehle benutzen kann. Sublime habe ich für alle Dateien benutzt, darunter die Html Dateien, die Css Stylesheets und die php Dokumente, da das Programm erst einmal einen guten Überblick schafft.
 
 ## Xampp
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/bc7d01f991b084ad90e3c3975caabb54-full.png"></p>
 
-Xampp ist ein Programm mit dem man verschiedene lokale Server starten kann, um mit diesen zu arbeiten. Hier wurde das Apache Modul benutzt sowie das Mysql Modul, weil man hier mit einer Datenbank arbeitet. Durch das Apache Modul ist es möglich Php Dokumente mit dem Browser öffnen zu können. Das wichtig um sehen zu können, ob die Änderungen des Dokuments funktionieren. Das Mysql Modul hingegen stellt die Verbindung zur Datenbank her, welche mit Mysql programmiert wird.
+Xampp ist ein Programm mit dem man verschiedene lokale Server starten kann, um mit diesen zu arbeiten. Hier wurde das Apache Modul benutzt sowie das Mysql Modul, weil man hier mit einer Datenbank arbeitet. Durch das Apache Modul ist es möglich, Php Dokumente mit dem Browser öffnen zu können. Das ist wichtig um sehen zu können, ob die Änderungen des Dokuments funktionieren. Das Mysql Modul hingegen stellt die Verbindung zur Datenbank her, welche mit Mysql programmiert wird.
 
 ## phpMyAdmin
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/b783390e80bee8e20ec6d436c05f73d7-full.png"></p>
 
-PhpMyAdmin ist ein Programm, um Datenbanken zu erstellen, zu bearbeiten und zu erweitern. Bei der Datenbankerstellung ist es sehr vorteilhaft, weil es viele genauere Definitionen der Tabellenspalten anzeigt und somit dem Benutzer hilft, da er die Basics nur auszuwählen hat. Im Projekt wurde es benutzt um in der Datenbank Test die Tabellen "accounts" und "bilder" zu erstellen.
+PhpMyAdmin ist ein Programm, um Datenbanken zu erstellen, zu bearbeiten und zu erweitern. Bei der Datenbankerstellung ist es sehr vorteilhaft, weil es viele genauere Definitionen der Tabellenspalten anzeigt und somit dem Benutzer hilft, da er die Basics nur auszuwählen hat. Im Projekt wurde es benutzt um in der Datenbank "test" die Tabellen "accounts" und "bilder" zu erstellen.
 
 # Datenbank
 
@@ -60,7 +60,7 @@ Die Tabelle "accounts" ist für die Speicherung der Anmeldedaten zuständig. Sie
 
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/921e77cd9e5a4a6fca3d7908f87ee086-full.png"></p>
 
-Die Id ist das wichtigste in dieser Tabelle, weil sie der Primärschlüssel ist, weswegen sie das Extra auto_increment bekommt. Deshalb muss man diesen Wert beim Einfügen in die Datenbank nicht einfügen, da er sich automatisch um 1 erhöht. Damit verhindert man, dass mehrere Benutzer dieselbe Id haben, was ist wichtig, weil der Primärschlüssel zur Unterscheidung der Benutzer genutzt wird. Die drei Spalten darunter sind relativ simpel, es handelt sich nämlich varchars, das bedeutet sie enthalten alle möglichen Zeichen, sind durch die 225 auf 225Zeichen begrenzt und sind flexibel, also nicht bindend. Die untersten zwei Spalten sind als ein Zeitpunkt definiert, welcher den Zeitpunkt des Einfügens festhält, bei updated_at wird der später durch den Zeitpunkt der Änderung ersetzt. 
+Die Id ist das Wichtigste in dieser Tabelle, weil sie der Primärschlüssel ist, weswegen sie das Extra auto_increment bekommt. Deshalb muss man diesen Wert beim Einfügen in die Datenbank nicht einfügen, da er sich automatisch um 1 erhöht. Damit verhindert man, dass mehrere Benutzer dieselbe Id haben, was ist wichtig, weil der Primärschlüssel zur Unterscheidung der Benutzer genutzt wird. Die drei Spalten darunter sind relativ simpel, es handelt sich nämlich um varchars, das bedeutet, sie enthalten alle möglichen Zeichen, sind durch die Zahl 225 auf 225 Zeichen begrenzt und sind flexibel, also nicht bindend. Die untersten zwei Spalten sind als ein Zeitpunkt definiert, welcher den Zeitpunkt des Einfügens festhält, bei updated_at wird der später durch den Zeitpunkt der Änderung ersetzt. 
 
 ## bilder
 <p><img src="https://cdn1.imggmi.com/uploads/2020/4/8/44b1cc9ed69da8a10b0c1b1fa76087a8-full.png"></p>
